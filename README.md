@@ -1,7 +1,7 @@
 ## Hello there 👋, I'm David Santillan
 A passionate, self-taught programmer since 2020
 
-- 🔭 I’m currently working on creating a [local desktop AI agent](https://github.com/Yeetmaster7522/Anime-Virtual-Assistant)
+- 🔭 I’m currently working on creating a [local desktop AI agent](https://github.com/Yeetmaster7522/Local-AI-Desktop-Assistant)
 - 🌱 I’m currently learning Godot
 - 💬 Ask me about Python
 - ⚡ Fun fact: I like gundams
